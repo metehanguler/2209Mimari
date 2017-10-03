@@ -1,0 +1,15 @@
+c:\users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.WinFormUI.exe.config
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.WinFormUI.exe
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.WinFormUI.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\2209Mimari.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\_2209Mimari.WinFormUI.Form1.resources
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\_2209Mimari.WinFormUI.Properties.Resources.resources
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\2209Mimari.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\2209Mimari.WinFormUI.exe
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\2209Mimari.WinFormUI.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.Entity.dll
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.ORM.dll
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.Entity.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\bin\Debug\2209Mimari.ORM.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\_2209Mimari.WinFormUI.UrunlerForm.resources
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.WinFormUI\obj\Debug\_2209Mimari.WinFormUI.KategorilerForm.resources

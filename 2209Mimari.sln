@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2209Mimari.WinFormUI", "2209Mimari.WinFormUI\2209Mimari.WinFormUI.csproj", "{53C29E9B-7B25-4613-A7EB-78FE40796800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2209Mimari.ORM", "2209Mimari.ORM\2209Mimari.ORM.csproj", "{0B64800A-329B-4F34-A8F0-4B1748047286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2209Mimari.Entity", "2209Mimari.Entity\2209Mimari.Entity.csproj", "{522DCCC0-5F61-4AFC-8936-46482088B63F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C29E9B-7B25-4613-A7EB-78FE40796800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C29E9B-7B25-4613-A7EB-78FE40796800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C29E9B-7B25-4613-A7EB-78FE40796800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C29E9B-7B25-4613-A7EB-78FE40796800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B64800A-329B-4F34-A8F0-4B1748047286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B64800A-329B-4F34-A8F0-4B1748047286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B64800A-329B-4F34-A8F0-4B1748047286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B64800A-329B-4F34-A8F0-4B1748047286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522DCCC0-5F61-4AFC-8936-46482088B63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522DCCC0-5F61-4AFC-8936-46482088B63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522DCCC0-5F61-4AFC-8936-46482088B63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522DCCC0-5F61-4AFC-8936-46482088B63F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

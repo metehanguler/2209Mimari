@@ -1,0 +1,7 @@
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\bin\Debug\2209Mimari.ORM.dll
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\bin\Debug\2209Mimari.ORM.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\bin\Debug\2209Mimari.Entity.dll
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\bin\Debug\2209Mimari.Entity.pdb
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\obj\Debug\2209Mimari.ORM.csprojResolveAssemblyReference.cache
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\obj\Debug\2209Mimari.ORM.dll
+C:\Users\pcc\documents\visual studio 2013\Projects\2209Mimari\2209Mimari.ORM\obj\Debug\2209Mimari.ORM.pdb
