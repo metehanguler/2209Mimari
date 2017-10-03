@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -34,9 +35,15 @@ namespace _2209Mimari.ORM
         public bool Ekle(TT entity)
         {
             SqlCommand cmd = new SqlCommand(string.Format("{0}_Ekle", TipGetir.Name),Tools.Baglanti);
-            cmd.CommandText = string.Format("{0}_Ekle", TipGetir.Name);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Connection
+
+            PropertyInfo[] propertys = TipGetir.GetProperties();
+
+            foreach (PropertyInfo pi in propertys)
+            {
+                //
+            }
+            return false;
         }
 
         public bool Guncelle(TT entity)

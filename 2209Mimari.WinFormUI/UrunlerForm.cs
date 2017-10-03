@@ -22,6 +22,16 @@ namespace _2209Mimari.WinFormUI
         {
             UrunlerORM orm = new UrunlerORM();
             dataGridView1.DataSource = orm.Listele();
+
+            TedarikcilerORM tOrm = new TedarikcilerORM();
+            comboBox2.DataSource = tOrm.Listele();
+            comboBox2.ValueMember = "TedarikciID";
+            comboBox2.DisplayMember = "SirketAdi";
+
+            KategoriORM kOrm = new KategoriORM();
+            comboBox1.DataSource = kOrm.Listele();
+            comboBox1.DisplayMember = "KategoriAdi";
+            comboBox1.ValueMember = "KategoriID";
         }
     }
 }
